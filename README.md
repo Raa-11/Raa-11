@@ -1,7 +1,7 @@
 ### Hi My Name Rama 👋
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working on Front-End Developer
+- 🌱 I’m currently learning React JS
 - 🤔 I’m looking for help with google, documentation, comunity and you tube
 - 💬 Ask me about any tech realted my repository.
 - 📫 How to reach me: [Instagram - @crozx_11](https://www.instagram.com/crozx_11/)
