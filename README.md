@@ -1,3 +1,5 @@
+
+![img](./img/github.png#center)
 # 💫 About Me:
 🤝 I’m looking for help with stack overflow<br>🌱 I’m currently learning Go, Rust, TS<br>💬 Ask me about Go<br>⚡ Fun fact I love a challenge
 
@@ -22,7 +24,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raa11dev&icon=6&color=1)](https://visitcount.itsvg.in)
