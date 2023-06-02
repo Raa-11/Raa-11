@@ -9,10 +9,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seno_rama_dhani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seno-rama-dhani-6a8775232) 
 
 ## 💻 Language:
-![Programming Language](https://skillicons.dev/icons?i=html,css,go,rust,ts)
+![Programming Language](https://skillicons.dev/icons?i=html,css,go,js,ts)
 
 ## ⌨️ Framework:
-![Framework](https://skillicons.dev/icons?i=actix,svelte,sass,GoLand)
+![Framework](https://skillicons.dev/icons?i=solidjs,svelte,sass)
 
 ## 💾 Database:
 ![My Skills](https://skillicons.dev/icons?i=postgres,dynamodb,redis)
