@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="250" widht="150" src="./img/header_.jpg">
+  <img height="225" widht="150" src="./img/header_.jpg">
 </p>
 
 # 💫 About Me:
