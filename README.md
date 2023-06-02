@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🤝 I’m looking for help with stack overflow<br>🌱 I’m currently learning Go, Rust, TS<br>💬 Ask me about Go<br>⚡ Fun fact I love a challenge
+🤝 I’m looking for help with stack overflow<br>🌱 I’m currently learning Go And TS/JS<br>💬 Ask me about Go<br>⚡ Fun fact I love a challenge
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seno_rama_dhani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seno-rama-dhani-6a8775232) 
