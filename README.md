@@ -15,10 +15,10 @@
 ![Framework](https://skillicons.dev/icons?i=solidjs,svelte,sass)
 
 ## 💾 Database:
-![My Skills](https://skillicons.dev/icons?i=postgres,dynamodb,redis)
+![My Skills](https://skillicons.dev/icons?i=postgres,redis)
 
 ## 🔋 Other Platforms: 
-![My Skills](https://skillicons.dev/icons?i=docker,discord,git,github,gitlab,idea,postman,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=docker,discord,git,idea,postman,raspberrypi)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raa11dev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
