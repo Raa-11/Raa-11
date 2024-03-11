@@ -6,7 +6,7 @@
 🤝 I’m looking for help with stack overflow<br>🌱 I’m currently learning Rust, TS, C#<br>💬 Ask me about Go<br>⚡ Fun fact I love a challenge
 
 ## 💻 Language:
-![Programming Language](https://skillicons.dev/icons?i=html,css,go,js,ts,rust,cs)
+![Programming Language](https://skillicons.dev/icons?i=html,css,go,js,ts,rust)
 
 ## 💾 Database:
 ![My Skills](https://skillicons.dev/icons?i=postgres,redis)
