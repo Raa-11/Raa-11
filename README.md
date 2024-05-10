@@ -2,8 +2,13 @@
   <img height="225" widht="150" src="./img/header_.jpg">
 </p>
 
-# 👋 About Me <img src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif" width="50" />
-> Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia. 
+<div style="display: flex; flex-direction: row; justify-content: center;" >
+    <img src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
+    <h1>About Me</h1>
+    <img src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif" width="100" style="margin-left: 3rem;" />
+</div>
+
+> Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
 <p align="center">
     <a href="https://github.com/Raa-11" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -22,19 +27,26 @@
     <img src="https://visitcount.itsvg.in/api?id=Raa-11&icon=6&color=1" width=20%">
 </p>
 
-
 ---
-
-
-# 💻 Skill and Tools <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="50" />
-<p align="center">
+<div style="display: flex; flex-direction: row; justify-content: center;" >
+    <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
+    <h1>Skill and Tools</h1>
+    <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="100" style="margin-left: 3rem;" />
+</div>
+<p align="center" style="margin-top: 2.3rem;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,go,js,ts,rust,py,svelte,postgres,redis,docker,git,idea,pnpm,cloudflare" />
   </a>
 </p>
 
-# 📊 GitHub Stats <img src="https://media.giphy.com/media/n881nu8KO2tJ5VtJ7U/giphy.gif" width="50" />
-<div float="left">
+---
+
+<div style="display: flex; flex-direction: row; justify-content: center;" >
+    <img src="https://media.giphy.com/media/n881nu8KO2tJ5VtJ7U/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
+    <h1>Skill and Tools</h1>
+    <img src="https://media.giphy.com/media/n881nu8KO2tJ5VtJ7U/giphy.gif" width="100" style="margin-left: 3rem;" />
+</div>
+<div float="left" style="margin-top: 2.3rem;">
     <img src="https://github-profile-trophy.vercel.app/?username=Raa-11&row=2&theme=vue#1&margin-w=15&margin-h=15" width="100%">
     <img src="https://github-contributor-stats.vercel.app/api?username=Raa-11&theme=vue" width="64.2%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raa-11&theme=vue&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="35.3%">
