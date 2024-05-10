@@ -33,6 +33,13 @@
     <img src="./img/Skills and Tools.gif" height="200" >
 </p>
 
+<p align="center">
+    <img src="./img/Desain tanpa judul (3).gif" height="200" >
+</p>
+<p align="center">
+    <img src="./img/Desain tanpa judul (4).gif" height="200" >
+</p>
+
 <div style="display: flex; flex-direction: row; justify-content: center;" >
     <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
     <h1>Skill and Tools</h1>
