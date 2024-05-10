@@ -2,11 +2,11 @@
   <img height="225" widht="150" src="./img/header_.jpg">
 </p>
 
-<div style="display: flex; flex-direction: row; justify-content: center;" >
-    <img src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
-    <h1>About Me</h1>
-    <img src="https://media.giphy.com/media/t1j3KW8BXTzccCLdNb/giphy.gif" width="100" style="margin-left: 3rem;" />
-</div>
+---
+
+<p align="center">
+    <img src="./img/2.svg" height="150" >
+</p>
 
 > Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
 <p align="center">
@@ -28,6 +28,11 @@
 </p>
 
 ---
+
+<p align="center">
+    <img src="./img/Skills and Tools.gif" height="200" >
+</p>
+
 <div style="display: flex; flex-direction: row; justify-content: center;" >
     <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
     <h1>Skill and Tools</h1>
