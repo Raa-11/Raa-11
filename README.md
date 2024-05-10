@@ -8,7 +8,13 @@
     <img src="./img/About Me.gif" height="200" >
 </p>
 
-> Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
+Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
+
+A little bit about me:
+* Currently learning frontend [Svelte](https://svelte.dev/) and [Astro](https://astro.build/).
+* Most comfortable with [Go](https://golang.org/) and [Typescript](https://www.typescriptlang.org/) for backend. Currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Rust](https://www.rust-lang.org/) for the backend as well.
+* Likes [Mojo](https://www.modular.com/max/mojo) because I enjoy learning new things like AI.
+
 <p align="center">
     <a href="https://github.com/Raa-11" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -35,7 +41,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,go,js,ts,rust,py,svelte,postgres,redis,docker,git,idea,pnpm,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,go,ts,cs,rust,py,dotnet,svelte,postgres,redis,docker,git,idea,pnpm,cloudflare" />
   </a>
 </p>
 
