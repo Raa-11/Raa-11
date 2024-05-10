@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-    <img src="./img/2.svg" height="150" >
+    <img src="./img/About Me.gif" height="200" >
 </p>
 
 > Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
@@ -29,23 +29,11 @@
 
 ---
 
+
 <p align="center">
     <img src="./img/Skills and Tools.gif" height="200" >
 </p>
-
 <p align="center">
-    <img src="./img/Desain tanpa judul (3).gif" height="200" >
-</p>
-<p align="center">
-    <img src="./img/Desain tanpa judul (4).gif" height="200" >
-</p>
-
-<div style="display: flex; flex-direction: row; justify-content: center;" >
-    <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
-    <h1>Skill and Tools</h1>
-    <img src="https://media.giphy.com/media/6UInbKnLIIxuZHiQl8/giphy.gif" width="100" style="margin-left: 3rem;" />
-</div>
-<p align="center" style="margin-top: 2.3rem;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,go,js,ts,rust,py,svelte,postgres,redis,docker,git,idea,pnpm,cloudflare" />
   </a>
@@ -53,11 +41,9 @@
 
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: center;" >
-    <img src="https://media.giphy.com/media/n881nu8KO2tJ5VtJ7U/giphy.gif" width="100" style="transform: scaleX(-1); margin-right: 3rem;" />
-    <h1>Skill and Tools</h1>
-    <img src="https://media.giphy.com/media/n881nu8KO2tJ5VtJ7U/giphy.gif" width="100" style="margin-left: 3rem;" />
-</div>
+<p align="center">
+    <img src="./img/Github Stats.gif" height="200" >
+</p>
 <div float="left" style="margin-top: 2.3rem;">
     <img src="https://github-profile-trophy.vercel.app/?username=Raa-11&row=2&theme=vue#1&margin-w=15&margin-h=15" width="100%">
     <img src="https://github-contributor-stats.vercel.app/api?username=Raa-11&theme=vue" width="64.2%">
