@@ -1,6 +1,8 @@
 <p align="center">
   <img height="225" widht="150" src="./img/header_.jpg">
 </p>
+# :raised_hand: Halo, I'm Seno Rama Dhani <img src="https://giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif" width="100">
+
 
 # 💫 About Me:
 🤝 I’m looking for help with stack overflow<br>🌱 I’m currently learning Rust, TS, C#<br>💬 Ask me about Go<br>⚡ Fun fact I love a challenge
