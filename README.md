@@ -31,7 +31,7 @@ A little bit about me:
 </p>
 
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Raa-11&icon=6&color=1" width=20%">
+    <img src="https://visitcount.itsvg.in/api?id=Raa-11&icon=6&color=1" width=18%">
 </p>
 
 ---
