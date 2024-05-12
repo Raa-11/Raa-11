@@ -41,7 +41,7 @@ A little bit about me:
     <img src="./img/Skills and Tools.gif" height="200" >
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,go,ts,cs,rust,py,dotnet,svelte,postgres,redis,docker,git,idea,pnpm,cloudflare" />
   </a>
 </p>
