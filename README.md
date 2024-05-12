@@ -10,10 +10,11 @@
 
 Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
 
-A little bit about me:
-* Currently learning frontend [Svelte](https://svelte.dev/) and [Astro](https://astro.build/).
-* Most comfortable with [Go](https://golang.org/) and [Typescript](https://www.typescriptlang.org/) for backend. Currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Rust](https://www.rust-lang.org/) for the backend as well.
-* Likes [Mojo](https://www.modular.com/max/mojo) because I enjoy learning new things like AI.
+> [!NOTE]
+> A little bit about me:
+> * Currently learning frontend [Svelte](https://svelte.dev/) and [Astro](https://astro.build/).
+> * Most comfortable with [Go](https://golang.org/) and [Typescript](https://www.typescriptlang.org/) for backend. Currently learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Rust](https://www.rust-lang.org/) for the backend as well.
+> * Likes [Mojo](https://www.modular.com/max/mojo) because I enjoy learning new things like AI.
 
 <p align="center">
     <a href="https://github.com/Raa-11" target="_blank">
