@@ -42,7 +42,7 @@ Hello My name is Seno Rama Dhani, currently in Sumedang, Indonesia.
     <img src="./img/Skills and Tools.gif" height="200" >
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,go,ts,rust,kubernetes,docker,redhat" />
+  <img src="https://skillicons.dev/icons?i=js,py,go,ts,rust,kubernetes,docker,redhat,astro,idea,svelte" />
 </p>
 
 ---
